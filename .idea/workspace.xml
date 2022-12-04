@@ -1,14 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba9f3238-c157-4f1f-a4a7-0b6adb4b1d6a" name="Changes" comment="" />
+    <list default="true" id="ba9f3238-c157-4f1f-a4a7-0b6adb4b1d6a" name="Changes" comment="now it is Java">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Common.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Common.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Process.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Process.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Results.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Results.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Scheduling.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scheduling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Scheduling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scheduling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SchedulingAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/SchedulingAlgorithm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SchedulingAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SchedulingAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Summary-Processes" beforeDir="false" afterPath="$PROJECT_DIR$/src/Summary-Processes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Summary-Results" beforeDir="false" afterPath="$PROJECT_DIR$/src/Summary-Results" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sProcess.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/sProcess.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scheduling.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/scheduling.conf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IKlKKQaB7lrsyF1WYBBwlK3aUg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,10 +44,25 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="STRF" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,8 +71,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669938091611</updated>
-      <workItem from="1669938093240" duration="299000" />
+      <workItem from="1669938093240" duration="933000" />
+      <workItem from="1669968594800" duration="1221000" />
+      <workItem from="1670006140723" duration="17000" />
+      <workItem from="1670006305058" duration="737000" />
+      <workItem from="1670151334151" duration="7536000" />
+      <workItem from="1670176832854" duration="12375000" />
     </task>
+    <task id="LOCAL-00001" summary="now it is Java">
+      <created>1669938420199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669938420199</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -49,5 +101,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="now it is Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="now it is Java" />
   </component>
 </project>
