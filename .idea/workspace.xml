@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba9f3238-c157-4f1f-a4a7-0b6adb4b1d6a" name="Changes" comment="now it is Java">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Common.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Common.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Process.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Process.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Results.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Results.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Scheduling.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scheduling.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Scheduling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scheduling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SchedulingAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/SchedulingAlgorithm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SchedulingAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SchedulingAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Summary-Processes" beforeDir="false" afterPath="$PROJECT_DIR$/src/Summary-Processes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Summary-Results" beforeDir="false" afterPath="$PROJECT_DIR$/src/Summary-Results" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sProcess.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/sProcess.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scheduling.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/scheduling.conf" afterDir="false" />
-    </list>
+    <list default="true" id="ba9f3238-c157-4f1f-a4a7-0b6adb4b1d6a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +62,7 @@
       <workItem from="1670006140723" duration="17000" />
       <workItem from="1670006305058" duration="737000" />
       <workItem from="1670151334151" duration="7536000" />
-      <workItem from="1670176832854" duration="12375000" />
+      <workItem from="1670176832854" duration="12532000" />
     </task>
     <task id="LOCAL-00001" summary="now it is Java">
       <created>1669938420199</created>
@@ -85,7 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669938420199</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ok, it works">
+      <created>1670195782982</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670195782982</updated>
+    </task>
+    <task id="LOCAL-00003" summary="delete html">
+      <created>1670195846770</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670195846770</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +104,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="now it is Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="now it is Java" />
+    <MESSAGE value="ok, it works" />
+    <MESSAGE value="delete html" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete html" />
   </component>
 </project>
